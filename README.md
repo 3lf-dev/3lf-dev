@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 
 I'm RPICave!
 
 Here are my github stats...
