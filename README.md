@@ -3,6 +3,6 @@ I'm RPICave!
 
 Here are my github stats...
 
-![](https://github.com/RPICave/github-stats/blob/master/generated/overview.svg)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RPICave?cardType=octocat&theme=prussian)](https://git.io/awesome-stats-card)
 
 Ps. I also love chemistry!
