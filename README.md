@@ -1,7 +1,7 @@
 ### Hello 🤚
 I'm RPICave!
 
-Website - rpicave.github.io
+[Website](rpicave.github.io)
 
 Here are my github stats...
 
