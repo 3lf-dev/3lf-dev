@@ -3,7 +3,7 @@ I'm RPICave!
 
 My [Website](https://rpicave.github.io/)
 
-Here are my github stats...
+Stats...
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RPICave?cardType=octocat&theme=radical)](https://git.io/awesome-stats-card)
 
