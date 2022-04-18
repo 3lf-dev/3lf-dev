@@ -10,12 +10,12 @@ Stats...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RPICave&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-===============================================================================
+==============================================================================
 
     Discord: elf#6584
     Email: rpicave.connect@gmail.com (PGP is preferred, email or DM me for PGP keys.)
     See the file 'doc/COPYING' for copying permission
 
-===============================================================================
+==============================================================================
 
 Ps. I also love chemistry!
