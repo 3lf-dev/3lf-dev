@@ -14,7 +14,6 @@ Stats...
 
     Discord: elf#6584
     Email: rpicave.connect@gmail.com (PGP is preferred, email or DM me for PGP keys.)
-    See the file 'doc/COPYING' for copying permission
 
 ==============================================================================
 
