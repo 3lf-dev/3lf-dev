@@ -1,7 +1,5 @@
 ### Hello 🤚
-I'm RPICave!
-
-<!-- My [Website](https://rpicave.github.io/) -->
+I'm Josh!
 
 Stats...
 
