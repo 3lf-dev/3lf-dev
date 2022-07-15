@@ -15,9 +15,8 @@
 
 - 📫 How to reach me **@elf#5344 - Discord**
 
-- ⚡ Fun fact **I like chemistry.**
+- ⚡ Fun fact, **I like chemistry.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
