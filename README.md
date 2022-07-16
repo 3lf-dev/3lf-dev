@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Aspect; a lightweight version of jQuery.**
+- 🔭 Working on **Aspect; a lightweight version of jQuery.**
 
-- 🌱 I’m currently learning **React, SQL, TensorFlow and GoLang**
+- 🌱 Learning **React, SQL, TensorFlow and GoLang**
 
-- 💬 Ask me about **JavaScript and NodeJS**
+- 💬 I'm good at **JavaScript and NodeJS**
 
-- 📫 How to reach me **@elf#5344 - Discord**
+- 📫 Contact **@elf#5344 - Discord**
 
 - ⚡ Fun fact, **I like chemistry.**
 
