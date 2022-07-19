@@ -13,7 +13,7 @@
 
 - 📫 Contact **@elf#5344 - Discord**
 
-- ⚡ Fun fact, **I like chemistry.**
+- ⚡ Fun fact, **I started programing in 2022!**
 
 <p align="left">
 </p>
