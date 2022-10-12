@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RPICave</h1>
+<h1 align="center">Hi 👋, I'm Josh</h1>
 <h3 align="center">A JavaScript ADDICT!</h3>
 
 
